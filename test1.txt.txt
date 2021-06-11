@@ -1,2 +1,3 @@
 This is my first line subject
 This is my second line subject
+Today is friday
