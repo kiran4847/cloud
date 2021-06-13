@@ -1,3 +1,4 @@
-Today is friday
-Tomorrow is saturday
+This is my first line
+This is my second line
+
 
